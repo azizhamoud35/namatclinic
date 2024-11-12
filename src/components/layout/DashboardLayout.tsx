@@ -29,9 +29,9 @@ export function DashboardLayout({ children }: DashboardLayoutProps) {
         <div className="container mx-auto px-4">
           <div className="flex h-16 items-center justify-between">
             <div className="flex items-center gap-2">
-              <img src="/logo.svg" alt="Namat Logo" className="h-8 w-8" />
+              <img src="/namatclinic.png" alt="Namat Logo" className="h-12 w-22" />
               <h1 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-[#7dda55] to-[#7dda55]/70 bg-clip-text text-transparent">
-                Namat Clinic
+                
               </h1>
             </div>
             
